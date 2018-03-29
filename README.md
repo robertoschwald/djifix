@@ -11,6 +11,7 @@ Current Version: 2018-02-21 (2018-01-27)
 Prerequisites:
 * C Compiler (LLVM / XCode in OSX, gcc in other envs)
 * ffmpeg
+* VLC viewer (optional, to check the repaired h264 video)
 
 ```bash
 make
