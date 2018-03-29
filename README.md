@@ -6,7 +6,7 @@ A C program to repair corrupted video files that can sometimes be produced by DJ
 
 Current Version: 2018-02-21
   
-## Install
+## Compile
 
 Prerequisites:
 * C Compiler (LLVM / XCode in OSX, gcc in other envs)
