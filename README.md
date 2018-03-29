@@ -21,7 +21,7 @@ make install
 djifix generates H264 videos. Therefore you need a tool to convert the H264 video to MP4, like ffmpeg.
 
 ```bash
-djifix path/to/video/DJI_XYZW
+djifix path/to/crashed/dji/video.[mov|mp4]
 ffmpeg -i DJI_XYZW-repaired.h264 -c copy DJI_XYZW-repaired.mp4
 ```
 
