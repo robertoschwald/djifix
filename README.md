@@ -4,7 +4,7 @@ Mirror of http://live555.com/drones/DJI-Phantom-2-Vision+-video-fix/
 
 A C program to repair corrupted video files that can sometimes be produced by DJI quadcopters.
 
-Current Version: 2018-02-21 (2018-01-27)
+Current Version: 2018-02-21 (Displayed as: "2019-01-27")
   
 ## Compile
 
